@@ -19,4 +19,8 @@ kalau belum, anda dapat menginstall live server via npm:
 
 ```npm i live-server```
 atau
+<<<<<<< HEAD
 ```npm install live-server```
+=======
+```npm install live-server```
+>>>>>>> 7bfab7b64acfc420e9b7f5e2ac8aad92a7cbad9f
